@@ -1,18 +1,18 @@
 {
-  "name": "My Portfolio",
+  "name": "Aquino PWA website",
   "short_name": "Portfolio",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fff",
-  "description": "RJ's Portfolio",
+  "background_color": "#ffffff",
+  "description": "PWA Portfolio",
   "icons": [
     {
-      "src": "images/512.png",
+      "src": "images/r-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "images/192.png",
+      "src": "images/r-192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
